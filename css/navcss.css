@@ -1,0 +1,44 @@
+<--
+/* Navigation */
+#navigation
+{
+	float: left;
+	width: 100%;
+}
+
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+	float: left; 
+	width: 100%; 
+	list-style-type: none;
+	background-color: #4F4F4F;
+}
+
+#navigation li { float: left; margin: 0; padding: 0; }
+
+#navigation a:link,
+#navigation a:visited
+{
+	float: left;
+	display: block;
+	color: #dce1e5;
+	padding: 5px 10px; 
+	background-color: #504F4F;
+}
+
+#navigation a:hover,
+#navigation a:active
+{
+	color: #ffffff;
+	background-color: #7AC11C;
+}
+
+#navigation li#pagein a
+{
+	color: #f9f9f9;
+	background-color: #79BF1B;	
+}
+
+-->
